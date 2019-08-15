@@ -5,6 +5,9 @@
 ## Product Ranking
 1. [On Application of Learning to Rank for E-Commerce Search](https://arxiv.org/pdf/1903.04263.pdf) by Shubhra Kanti Karmaker Santu et al. SIGIR 2019
 
+## SEM/PLA Bidding
+1. [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) by Yuchin Juan et al. RecSys 2016. 
+
 ## Marketing Channel Attribution
 1. [Bias Correction For Paid Search In Media Mix Modeling](https://arxiv.org/abs/1807.03292) by Aiyou Chen et al. 
 2. [Challenges And Opportunities In Media Mix Modeling](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45998.pdf) by David Chan et al.
