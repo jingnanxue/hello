@@ -5,6 +5,10 @@
 ## Product Ranking
 1. [On Application of Learning to Rank for E-Commerce Search](https://arxiv.org/pdf/1903.04263.pdf) by Shubhra Kanti Karmaker Santu et al. SIGIR 2019
 
+## Customer purchase prediction
+1. [User behaviour modeling, recommendations, and purchase prediction
+during shopping festivals](http://hanchengcao.me/pdf/ECommerce.pdf) By Ming Zeng et al. Electronic Markets 2018
+
 ## SEM/PLA Bidding
 1. [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) by Yuchin Juan et al. RecSys 2016. 
 
