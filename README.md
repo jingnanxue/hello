@@ -8,6 +8,8 @@
 ## Customer purchase prediction
 1. [User behaviour modeling, recommendations, and purchase prediction
 during shopping festivals](http://hanchengcao.me/pdf/ECommerce.pdf) By Ming Zeng et al. Electronic Markets 2018
+2. [Understanding Behaviors that Lead to Purchasing:
+A Case Study of Pinterest](https://cs.stanford.edu/people/jure/pubs/pinterest-kdd16.pdf) By Caroline Lo et al. KDD 2016
 
 ## SEM/PLA Bidding
 1. [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) by Yuchin Juan et al. RecSys 2016. 
