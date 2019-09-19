@@ -10,7 +10,8 @@
 during shopping festivals](http://hanchengcao.me/pdf/ECommerce.pdf) By Ming Zeng et al. Electronic Markets 2018
 2. [Understanding Behaviors that Lead to Purchasing:
 A Case Study of Pinterest](https://cs.stanford.edu/people/jure/pubs/pinterest-kdd16.pdf) By Caroline Lo et al. KDD 2016
-
+3. [Large Scale Purchase Prediction with
+Historical User Actions on B2C Online Retail Platform](https://arxiv.org/pdf/1408.6515.pdf) By Yuyu Zhang et al. RecSys 2014
 ## SEM/PLA Bidding
 1. [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) by Yuchin Juan et al. RecSys 2016. 
 
