@@ -14,6 +14,7 @@ A Case Study of Pinterest](https://cs.stanford.edu/people/jure/pubs/pinterest-kd
 Historical User Actions on B2C Online Retail Platform](https://arxiv.org/pdf/1408.6515.pdf) By Yuyu Zhang et al. RecSys 2014
 ## SEM/PLA Bidding
 1. [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) by Yuchin Juan et al. RecSys 2016. 
+2. [Optimal bidding in Google Shopping](https://essay.utwente.nl/68018/1/Veurink_MA_EEMCS.pdf) by Stefan Veurink master thesis
 
 ## Marketing Channel Attribution
 1. [Bias Correction For Paid Search In Media Mix Modeling](https://arxiv.org/abs/1807.03292) by Aiyou Chen et al. 
