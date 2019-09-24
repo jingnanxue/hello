@@ -12,6 +12,9 @@ during shopping festivals](http://hanchengcao.me/pdf/ECommerce.pdf) By Ming Zeng
 A Case Study of Pinterest](https://cs.stanford.edu/people/jure/pubs/pinterest-kdd16.pdf) By Caroline Lo et al. KDD 2016
 3. [Large Scale Purchase Prediction with
 Historical User Actions on B2C Online Retail Platform](https://arxiv.org/pdf/1408.6515.pdf) By Yuyu Zhang et al. RecSys 2014
+4. [Modelling customer online behaviours with
+neural networks: applications to conversion
+prediction and advertising retargeting](https://arxiv.org/pdf/1804.07669.pdf) By Yanwei Cui et al. Arxiv
 ## SEM/PLA Bidding
 1. [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) by Yuchin Juan et al. RecSys 2016. 
 2. [Optimal bidding in Google Shopping](https://essay.utwente.nl/68018/1/Veurink_MA_EEMCS.pdf) by Stefan Veurink master thesis
