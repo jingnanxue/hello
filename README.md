@@ -26,8 +26,7 @@ prediction and advertising retargeting](https://arxiv.org/pdf/1804.07669.pdf) By
 1. [Detecting Click Fraud in Online Advertising:A Data Mining Approach](http://www.jmlr.org/papers/volume15/oentaryo14a/oentaryo14a.pdf) by Richard Oentaryo et al. JMLR 2014
 
 ## AB test
-1. [INFERRING CAUSAL IMPACT USING BAYESIAN STRUCTURAL
-TIME-SERIES MODELS](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41854.pdf) by KAY H. BRODERSEN et al. The Annals of Applied Statistics 2015
+1. [Inferring Causal Impact using Bayesian Structural Time-Series Models](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41854.pdf) by KAY H. BRODERSEN et al. The Annals of Applied Statistics 2015
 
 ## Miscellaneous
 1. [Understanding Black-box Predictions via Influence Functions](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf) by Pang Wei Koh et al. ICML 2017
