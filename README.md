@@ -14,8 +14,7 @@ A Case Study of Pinterest](https://cs.stanford.edu/people/jure/pubs/pinterest-kd
 Historical User Actions on B2C Online Retail Platform](https://arxiv.org/pdf/1408.6515.pdf) By Yuyu Zhang et al. RecSys 2014
 4. [Modelling customer online behaviours with
 neural networks: applications to conversion
-prediction and advertising retargeting](https://arxiv.org/pdf/1804.07669.pdf) By Yanwei Cui et al. Arxiv
-## SEM/PLA Bidding
+prediction and advertising retargeting](https://arxiv.org/pdf/1804.07669.pdf) By Yanwei Cui et al. 
 1. [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) by Yuchin Juan et al. RecSys 2016. 
 2. [Optimal bidding in Google Shopping](https://essay.utwente.nl/68018/1/Veurink_MA_EEMCS.pdf) by Stefan Veurink master thesis
 
@@ -26,6 +25,8 @@ prediction and advertising retargeting](https://arxiv.org/pdf/1804.07669.pdf) By
 ## Click Fraud
 1. [Detecting Click Fraud in Online Advertising:A Data Mining Approach](http://www.jmlr.org/papers/volume15/oentaryo14a/oentaryo14a.pdf) by Richard Oentaryo et al. JMLR 2014
 
+## AB test
+1. [https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41854.pdf](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41854.pdf) by KAY H. BRODERSEN et al. The Annals of Applied Statistics 2015
 ## Miscellaneous
 1. [Understanding Black-box Predictions via Influence Functions](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf) by Pang Wei Koh et al. ICML 2017
 2. [A tutorial on Thompson Sampling](https://arxiv.org/pdf/1707.02038.pdf) by Daniesl J.Russo et al. 
