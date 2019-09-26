@@ -23,6 +23,8 @@ prediction and advertising retargeting](https://arxiv.org/pdf/1804.07669.pdf) By
 2. [Challenges And Opportunities In Media Mix Modeling](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45998.pdf) by David Chan et al.
 3. [A Hierarchical Bayesian Approach to Improve Media Mix Models
 Using Category Data](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45999.pdf) by Yueqing  Wang et al. 
+4.[Bayesian Methods for Media Mix Modeling with Carryover and
+Shape Effects](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf) by Yuxue Jin et al.
 
 ## Click Fraud
 1. [Detecting Click Fraud in Online Advertising:A Data Mining Approach](http://www.jmlr.org/papers/volume15/oentaryo14a/oentaryo14a.pdf) by Richard Oentaryo et al. JMLR 2014
