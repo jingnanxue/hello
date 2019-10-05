@@ -15,8 +15,11 @@ Historical User Actions on B2C Online Retail Platform](https://arxiv.org/pdf/140
 4. [Modelling customer online behaviours with
 neural networks: applications to conversion
 prediction and advertising retargeting](https://arxiv.org/pdf/1804.07669.pdf) By Yanwei Cui et al. 
+
+## SEM/PLA Bidding
 1. [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) by Yuchin Juan et al. RecSys 2016. 
 2. [Optimal bidding in Google Shopping](https://essay.utwente.nl/68018/1/Veurink_MA_EEMCS.pdf) by Stefan Veurink master thesis
+3. [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf) by H. Brendan McMahan et al. KDD 2013.
 
 ## Marketing Channel Attribution
 1. [Bias Correction For Paid Search In Media Mix Modeling](https://arxiv.org/abs/1807.03292) by Aiyou Chen et al. 
