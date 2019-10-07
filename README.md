@@ -15,6 +15,7 @@ Historical User Actions on B2C Online Retail Platform](https://arxiv.org/pdf/140
 4. [Modelling customer online behaviours with
 neural networks: applications to conversion
 prediction and advertising retargeting](https://arxiv.org/pdf/1804.07669.pdf) By Yanwei Cui et al. 
+5. [Deep Personalized Re-targeting] (https://arxiv.org/pdf/1907.02822.pdf) By Meisam Hejazinia et al.
 
 ## SEM/PLA Bidding
 1. [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf) by Yuchin Juan et al. RecSys 2016. 
